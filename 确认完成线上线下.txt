@@ -1,0 +1,4 @@
+确认完成公司募资余额产品结构情况线上;${assetId};assetsRaiseFund;toConfirm;1;
+确认完成公司募资余额产品结构情况线下;${assetId};assetsRaiseFund;toConfirm;2;
+确认完成公司各月募资情况线上;${assetId};assetsCompanyMonthRaiseFund;toConfirm;1;
+确认完成公司各月募资情况线下;${assetId};assetsCompanyMonthRaiseFund;toConfirm;2;

@@ -1,0 +1,3 @@
+上传风控部门设置、风控业务操作流程、制度规定、授信规则非标准附件;${assetId};风控部门设置、风控业务操作流程、制度规定、授信规则.txt;业务模式、市场定位分析、主营业务竞争优势;risk_management_info;http://p9kon2vas.bkt.clouddn.com/20180720/ZC0344/eef1f40ddd2942f2e682e0679e1771c3.txt;assetsAttachment;a
+上传客户、经销商、门店准入及筛选标准非标准附件;${assetId};客户、经销商、门店准入及筛选标准.png;客户、经销商、门店准入及筛选标准;screening_criteria;http://p9kon2vas.bkt.clouddn.com/20180720/ZC0344/436c0450f89ab884856d3ad9c9638f19.png;assetsAttachment;a
+上传拒单规则、近一年每月的拒单笔数与触碰的规则非标准附件;${assetId};拒单规则、近一年每月的拒单笔数与触碰的规则.txt;拒单规则、近一年每月的拒单笔数与触碰的规则;refuse_rules;http://p9kon2vas.bkt.clouddn.com/20180720/ZC0344/57118be528a44dcd2ff975c9618fe11c.txt;assetsAttachment;a

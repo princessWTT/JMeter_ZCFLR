@@ -1,0 +1,2 @@
+上传近一年有息负债融资清单及相应的协议非标准附件;${assetId};近一年有息负债融资清单及相应的协议.pdf;近一年有息负债融资清单及相应的协议;assets_interest_debt_url;http://p9kon2vas.bkt.clouddn.com/20180723/ZC0347/2226611e7aa2d2f1b90153c5d994fd1a.pdf;assetsInterestDebtFinancingList;n
+上传最近一期公司银行、第三方支付账单列表与余额并提供相应的银行对账单标准附件;${assetId};最近一期公司银行、第三方支付账单列表与余额并提供相应的银行对账单.png;最近一期公司银行、第三方支付账单列表与余额并提供相应的银行对账单;assets_bank_statement_url;http://p9kon2vas.bkt.clouddn.com/20180723/ZC0347/109bbe72abb908ae1d4ee3c9c2e4e8b1.png;assetsBankStatement;n

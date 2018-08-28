@@ -1,0 +1,1 @@
+上传外部融资渠道最近一年的融资台账标准附件;${assetId};1;测试渠道名称;30;6/29/18;2019-06-07;100000;100;10;assetsExternalFinancingChannelsAccount;n

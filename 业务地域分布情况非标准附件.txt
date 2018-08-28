@@ -1,0 +1,1 @@
+上传业务地域分布情况非标准附件;${assetId};地域分布.png;http://p9kon2vas.bkt.clouddn.com/20180726/ZC0400/9f77024f48367dcd90744e0cc34d61d3.png;assetsRegionDistribution;m

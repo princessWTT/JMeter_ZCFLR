@@ -1,0 +1,5 @@
+上传公司自成立开始账龄数据情况非标准附件表格1;${assetId};公司账龄.png;http://p9kon2vas.bkt.clouddn.com/20180726/ZC0382/7f2721bd2277d611feb0a7aaaa3c39ca.png;m0;assetsCompanyAgeData;m
+上传公司自成立开始账龄数据情况非标准附件表格2;${assetId};公司账龄.png;http://p9kon2vas.bkt.clouddn.com/20180726/ZC0382/7f2721bd2277d611feb0a7aaaa3c39ca.png;m1;assetsCompanyAgeData;m
+上传公司自成立开始账龄数据情况非标准附件表格3;${assetId};公司账龄.png;http://p9kon2vas.bkt.clouddn.com/20180726/ZC0382/7f2721bd2277d611feb0a7aaaa3c39ca.png;m2;assetsCompanyAgeData;m
+上传公司自成立开始账龄数据情况非标准附件表格4;${assetId};公司账龄.png;http://p9kon2vas.bkt.clouddn.com/20180726/ZC0382/7f2721bd2277d611feb0a7aaaa3c39ca.png;m3;assetsCompanyAgeData;m
+上传公司自成立开始账龄数据情况非标准附件表格5;${assetId};公司账龄.png;http://p9kon2vas.bkt.clouddn.com/20180726/ZC0382/7f2721bd2277d611feb0a7aaaa3c39ca.png;m4;assetsCompanyAgeData;m

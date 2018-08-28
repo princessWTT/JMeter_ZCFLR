@@ -1,0 +1,1 @@
+上传业务门店分布情况非标准附件;${assetId};门店分布.png;http://p9kon2vas.bkt.clouddn.com/20180726/ZC0400/9b5f348ae770b959d7c8fe6728c2cd58.png;assetsShopDistribution;m

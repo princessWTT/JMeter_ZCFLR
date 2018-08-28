@@ -1,0 +1,3 @@
+上传最近两年各月业务数据非标准附件;${assetId};业务数据.png;http://p9kon2vas.bkt.clouddn.com/20180726/ZC0382/7f2721bd2277d611feb0a7aaaa3c39ca.png;m0;assetBusinessMonthData;m
+上传库融新车非标准附件;${assetId};业务数据.png;http://p9kon2vas.bkt.clouddn.com/20180808/ZC0509/55babf3ec88b5e637286dbb94279070a.png;m1;assetBusinessMonthData;m
+上传库融二手车非标准附件;${assetId};业务数据.png;http://p9kon2vas.bkt.clouddn.com/20180808/ZC0509/bbc28d1d91eb0351d4a4e44808864fd7.png;m2;assetBusinessMonthData;m

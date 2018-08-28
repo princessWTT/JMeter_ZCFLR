@@ -1,0 +1,2 @@
+上传公司各月募资情况非标准附件线上;${assetId};1;各月募集资金.png;http://p9kon2vas.bkt.clouddn.com/20180718/ZC0308/4d471f658a9096fc007919cd4c73c8bb.png;assetsCompanyMonthRaiseFund;m
+上传公司各月募资情况非标准附件线下;${assetId};2;各月募集资金.png;http://p9kon2vas.bkt.clouddn.com/20180718/ZC0308/4d471f658a9096fc007919cd4c73c8bb.png;assetsCompanyMonthRaiseFund;m

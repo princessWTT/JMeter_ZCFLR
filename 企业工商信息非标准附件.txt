@@ -1,0 +1,9 @@
+上传公司章程非标准附件;${assetId};公司章程;articles_of_association;公司章程.png;http://p9kon2vas.bkt.clouddn.com/20180716/ZC0249/ad3a6c0c41c88c2f63f7c4c6fb48d007.png;assetsCompanyInfo;f
+上传营业执照非标准附件;${assetId};营业执照;business_license;营业执照.png;http://p9kon2vas.bkt.clouddn.com/20180716/ZC0277/afb17aef85fb87ad8967a096275f5d12.png;assetsCompanyInfo;f
+上传公司未来发展计划非标准附件;${assetId};公司未来发展计划;company_development_planning;公司未来发展计划.pdf;http://p9kon2vas.bkt.clouddn.com/20180809/ZC0502/cf48e01b19ae5a1472e626036a78bace.pdf;assetsCompanyInfo;f
+上传验资报告非标准附件;${assetId};验资报告;capital_verification_report;验资报告.pdf;http://p9kon2vas.bkt.clouddn.com/20180809/ZC0502/3d4230fb8c9b0797448c6cd297b31f8e.pdf;assetsCompanyInfo;f
+上传股权结构非标准附件;${assetId};股权结构;equity_structure;股权结构.pdf;http://p9kon2vas.bkt.clouddn.com/20180809/ZC0502/2c8bb920ea88d7dff80fbe75039d60a6.pdf;assetsCompanyInfo;f
+上传关联方股权结构图非标准附件;${assetId};关联方股权结构图;related_equity_structure;关联方股权结构图.pdf;http://p9kon2vas.bkt.clouddn.com/20180809/ZC0502/9a6d5ecda71ae0bf0a3ab0c59ee0953b.pdf;assetsCompanyInfo;f
+上传实际控制人、法定代表人身份证、个人征信报告相关信息非标准附件;${assetId};实际控制人、法定代表人身份证、个人征信报告相关信息;legal_personal_infos;实际控制人、法定代表人身份证、个人征信报告相关信息.pdf;http://p9kon2vas.bkt.clouddn.com/20180809/ZC0502/3262ca82b674222964b2a7d9e585d658.pdf;assetsCompanyInfo;f
+上传公司简介非标准附件;${assetId};公司简介;company_abstract;公司简介.png;http://p9kon2vas.bkt.clouddn.com/20180710/ZC0199/d341706fd183eccf0d3a425ea9a3d772.png;assetsCompanyInfo;f
+上传公司股东、高级管理人员简历非标准附件;${assetId};公司股东、高级管理人员简历;senior_management_resume;公司股东、高级管理人员简历.png;http://p9kon2vas.bkt.clouddn.com/20180809/ZC0502/74e54d1cedc34d0810ed13829762301f.png;assetsCompanyInfo;f

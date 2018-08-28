@@ -1,0 +1,9 @@
+上传对外担保情况非标准附件;${assetId};对外担保.png;对外担保;assets_external_securitys_url;http://p9kon2vas.bkt.clouddn.com/20180710/ZC0188/7a4c0444c83a0dde532ca8d916d306d1.png;assetsExternalSecurity;n
+上传对外负债情况非标准附件;${assetId};对外负债.xlsx;对外负债;assets_exterior_liabilities_url;http://p9kon2vas.bkt.clouddn.com/20180710/ZC0188/7a4c0444c83a0dde532ca8d916d306d1.xlsx;assetsExteriorLiabilities;n
+上传人法、仲裁、失信情况非标准附件;${assetId};人法 仲裁 失信 情况.xls;人法、仲裁、失信情况;asset_judiciary_info_url;http://p9kon2vas.bkt.clouddn.com/20180711/ZC0188/105e8a7e265cf43a314a6eb87eb79b54.xls;assetsJudiciaryInfo;n
+上传股东情况非标准附件;${assetId};股东情况.xls;股东情况;assets_shareholder_info_url;http://p9kon2vas.bkt.clouddn.com/20180711/ZC0188/58cdb1c1b8c0b0d095819761656b4c29.xls;assetsShareholderInfo;n
+上传融资情况非标准附件;${assetId};融资情况.xlsx;融资情况;assets_financing_situation_url;http://p9kon2vas.bkt.clouddn.com/20180710/ZC0188/7a4c0444c83a0dde532ca8d916d306d1.xlsx;assetsFinancingSituation;n
+上传关联公司非标准附件;${assetId};关联公司.png;关联公司;assets_affiliated_company_url;http://p9kon2vas.bkt.clouddn.com/20180717/ZC0295/c3860a25b5ed55c98926cf0bc0aca398.png;assetsAffiliatedCompany;n
+上传公司组织架构非标准附件;${assetId};公司组织架构.xlsx;公司组织架构;assets_corporate_organizational_structure_url;http://p9kon2vas.bkt.clouddn.com/20180710/ZC0188/7a4c0444c83a0dde532ca8d916d306d1.xlsx;assetsCorporateOrganizationalStructure;n
+上传主要部门负责人及简介非标准附件;${assetId};主要部门负责人及简介.xlsx;主要部门负责人及简介;assets_brief_introduction_url;http://p9kon2vas.bkt.clouddn.com/20180710/ZC0188/7a4c0444c83a0dde532ca8d916d306d1.xlsx;assetsBriefIntroduction;n
+上传外部资金方情况非标准附件;${assetId};外部资金方情况.xlsx;外部资金方情况;assets_external_financial_situation_url;http://p9kon2vas.bkt.clouddn.com/20180710/ZC0188/7a4c0444c83a0dde532ca8d916d306d1.xlsx;assetsExternalFinancialSituation;n

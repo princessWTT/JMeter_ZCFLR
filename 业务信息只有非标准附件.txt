@@ -1,0 +1,5 @@
+上传业务模式、市场定位分析、主营业务竞争优势非标准附件;${assetId};业务模式、市场定位分析、主营业务竞争优势.pdf;业务模式、市场定位分析、主营业务竞争优势;business_pattern;http://p9kon2vas.bkt.clouddn.com/20180723/ZC0352/7f19af4ba4c594ee58271a3f6d4ee391.pdf;assetsAttachment;a
+上传产品类别及对应流程图、简介非标准附件;${assetId};产品类别及对应流程图、简介.txt;产品类别及对应流程图、简介;product_introduction;http://p9kon2vas.bkt.clouddn.com/20180723/ZC0352/08e46bfe2295008c63baed6219787e46.txt;assetsAttachment;a
+上传产品大纲、盈利逻辑分析及具体收费标准非标准附件;${assetId};产品大纲、盈利逻辑分析及具体收费标准.png;产品大纲、盈利逻辑分析及具体收费标准;product_outline;http://p9kon2vas.bkt.clouddn.com/20180723/ZC0352/d0161ed7cae13c44f3a836f07e5e80d5.png;assetsAttachment;a
+上传客户进件资料与合同非标准附件;${assetId};客户进件资料与合同.png;客户进件资料与合同;clientele_infos;http://p9kon2vas.bkt.clouddn.com/20180723/ZC0352/c9868a95070702ef7e0f383099b52245.png;assetsAttachment;a
+上传渠道、业务人员返点制度非标准附件;${assetId};渠道、业务人员返点制度.docx;渠道、业务人员返点制度;rebate_rules;http://p9kon2vas.bkt.clouddn.com/20180723/ZC0352/260264207435dc32ef9d2a012b9ef59f.docx;assetsAttachment;a
